@@ -38,9 +38,11 @@
       <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
       <span class="sr-only">Next</span>
     </a>
-  </div>
+  </div></br>
 
-<div class="col-sm-12">
+<div class="col-sm-2"></div>
+
+<div class="col-sm-10">
 			<div class="panel panel-default transparent">
 				<div class="panel-heading"><h1>Development Projects</h1></div>
 				<div class="panel-body">
@@ -80,7 +82,22 @@
 					   </div>
 					   <div class="media-body">
 					      <h4 class="media-heading"><a href=" /CONTENT/dev/JPCH/ARDrone/arDrone-1.php ">Drone Hackathon</a></h4>
-					      <p>The code that was used to win the Brunel 2015 Drone-a-thon</p>
+					      <p>The code that was used to win the Brunel 2015 Drone-a-thon </br>...largly under construction</p>
+					   </div>
+					</div>
+					
+					 <div class="media">
+					   <div class="media-left media-top">
+					      <a>
+					         <img class="media-object" src="/RESOURCES/devPics/Brunel/MathsEG/MathsEG.png" alt="">
+					         </img>
+					      </a>
+					   </div>
+					   <div class="media-body">
+					      <h4 class="media-heading"><a>MathsEG</a></h4>
+					      <p>Work done during a summer placement in 2015 for the Brunel Computer Science/Maths departments
+								</br>...under construction
+								</p>
 					   </div>
 					</div>
 
